@@ -1,0 +1,17 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "7.5.0"
+  },
+  "repository": "https://github.com/soundslikejason/node-chat-app.git",
+  "author": "Jason Leong <soundslikejason@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
