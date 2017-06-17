@@ -18,5 +18,8 @@
         "mongo": true,
         "jquery": true
     },
+    "globals": {
+        "moment": true
+    },
     "extends": "eslint:recommended"
 }
