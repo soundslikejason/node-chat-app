@@ -19,7 +19,8 @@
         "jquery": true
     },
     "globals": {
-        "moment": true
+        "moment": true,
+        "Mustache": true
     },
     "extends": "eslint:recommended"
 }
